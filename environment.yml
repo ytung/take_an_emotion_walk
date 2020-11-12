@@ -49,7 +49,7 @@ dependencies:
   - numpy=1.18.1=py38h4f9e942_0
   - numpy-base=1.18.1=py38hde5b4d6_1
   - olefile=0.46=py_0
-  - openssl=1.1.1=h7b6447c_0
+  - openssl=1.1.1g=h7b6447c_0
   - pandas=1.0.1=py38h0573a6f_0
   - pcre=8.44=he1b5a44_0
   - pillow=7.0.0=py38hb39fc2d_0
@@ -84,4 +84,3 @@ dependencies:
   - pip:
     - pyyaml==5.3
 prefix: /home/croncal/anaconda3/envs/taew
-
